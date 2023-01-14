@@ -1,0 +1,16 @@
+body {
+    background-image: url(images/background.jpg);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: white;
+    height: 20%;
+    width: 30%;
+    border: 1pt solid red;
+    border-radius: 20px;
+    text-align: center;
+}
