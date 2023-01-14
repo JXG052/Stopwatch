@@ -14,3 +14,9 @@ body {
     border-radius: 20px;
     text-align: center;
 }
+.btn {
+    display: inline;
+    padding: 5px;
+    border: 1pt solid blue;
+    border-radius: 30px;
+}
